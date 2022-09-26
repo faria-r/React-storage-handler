@@ -1,0 +1,16 @@
+.product{
+    border: 2px solid red;
+    margin:20px;
+    padding:16 px;
+background-image: linear-gradient(silver,white,indianred,coral);
+    border-radius: 26px;
+    box-shadow: inset 15px 23px 89px hotpink;
+}
+.product button{
+    padding:10px;
+    border-radius: 34px;
+    color:red;
+    font-size: 15px;
+    margin-bottom: 10px;
+    border: 1px solid salmon;
+}
